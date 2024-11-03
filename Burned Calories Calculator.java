@@ -33,7 +33,7 @@ class FitnessEnthusiast extends Person{
         System.out.printf("Calories Burned: %.1f calories\n", calculate());
     }
 }
-public class Main{
+class Main{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         
